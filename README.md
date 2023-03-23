@@ -148,3 +148,6 @@ If you like this project reach me on my contact
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank in advance
+
+📝 License
+This project is [MIT](./LICENSE) licensed.
