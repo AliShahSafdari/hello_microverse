@@ -24,15 +24,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -131,7 +122,7 @@ You can deploy this project using: It is not completed.
 
 <!-- CONTRIBUTING -->
 
-Contributions, issues, and feature requests are welcome!
+## ontributing
 
 Feel free to check the [issues page](../../issues/).
 
@@ -139,7 +130,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-> Write a message to encourage readers to support your project
+## Show your support
 
 If you like this project reach me on my contact
 
@@ -147,4 +138,7 @@ If you like this project reach me on my contact
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank in advance
+I would like to thank the Microverse community.
+
+📝 License
+This project is [MIT](./LICENSE) licensed.
